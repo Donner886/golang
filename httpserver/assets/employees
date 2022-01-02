@@ -1,0 +1,20 @@
+{
+  "NBA Players":[
+    {"name":"Kobe Bean Bryant",
+      "Birthday":"Kobe Bean Bryant",
+      "city":"Kobe Bean Bryant"},
+    {"name":"Kevin Durant",
+      "Birthday":"1988-09-29",
+      "city":"Texas-Austin/United States"},
+    {"name":"LeBron James",
+      "Birthday":"1984-12-30",
+      "city":"t.Vincent-St. Mary HS (OH)/United States"},
+    {"name":"Stephen Curry",
+      "Birthday":"Davidson/United States",
+      "city":"1988-03-14"},
+    {"name":"姚明",
+      "Birthday":"1989-09-12",
+      "city":"上海"}
+  ]
+
+}
